@@ -1,0 +1,2 @@
+//button[@type="submit"] - xpath
+[type="submit"] - css
